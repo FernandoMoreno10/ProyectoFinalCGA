@@ -1,0 +1,36 @@
+newmtl ironman:MFF_iOS_HER_TST_CLA_A
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd M-FF_iOS_HERO_Tony_Stark_Iron_Man_Classic_Arc_Reactor_D.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl ironman:MFF_iOS_HER_TST_CLA_B
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd M-FF_iOS_HERO_Tony_Stark_Iron_Man_Classic_Body_D.png
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 96.08
+newmtl ironman:MFF_iOS_HER_TST_CLA_R
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd M-FF_iOS_HERO_Tony_Stark_Iron_Man_Classic_Ring_D.png
+Ni 1.00
+Ks 0.03 0.03 0.03
+Ns 96.08
+newmtl ironman:MFF_iOS_HER_TST_CLA_W
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd M-FF_iOS_HERO_Tony_Stark_Iron_Man_Classic_Body_D.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08

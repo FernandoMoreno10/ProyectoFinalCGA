@@ -1,0 +1,16 @@
+# Blender MTL File: 'Rock_2.blend'
+# Material Count: 1
+
+newmtl Rock_2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Rock_2\\Rock_2_Tex\\Rock_2_Normal.jpg
+map_Kd Rock_2\\Rock_2_Tex\\Rock_2_Base_Color.jpg
+map_Ks Rock_2\\Rock_2_Tex\\Rock_2_Specular.jpg
+map_Ns Rock_2\\Rock_2_Tex\\Rock_2_Glossiness.jpg
